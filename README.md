@@ -1,2 +1,2 @@
 # Ritm style
->[Просмотреть страницу](https://ritm.pages.dev/)
+>[Просмотреть страницу](vue-js-graph.pages.dev)
